@@ -1,1 +1,3 @@
 daniel garzon quiero crear un software en los que pueda incorporar poo
+daniel garzon
+es importante manejar bien los archivos en los que se trabajo ya que en caso de estar haciendo un programa puede generar muchas confusiones y retrasos al trabajar en equipo
